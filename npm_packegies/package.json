@@ -1,0 +1,16 @@
+{
+  "name": "npm_packegies",
+  "version": "1.0.0",
+  "description": "npm packes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashvani",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "validator": "^13.9.0"
+  }
+}

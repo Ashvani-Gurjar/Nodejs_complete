@@ -1,0 +1,171 @@
+{
+    "jokes": [
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 185,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "twopart",
+            "setup": "Why do Java programmers hate communism?",
+            "delivery": "They don't want to live in a classless society.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 53,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Me and my Jewish friend were eating lunch and I farted. He got mad so I said \"cmon man a little gas never killed anyone\".",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": true,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 103,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "twopart",
+            "setup": "If I make you breakfast in bed, a simple thank you is all I need.",
+            "delivery": "Not all this \"How the fuck did you get in my house?!\" nonsense.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 84,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "twopart",
+            "setup": "What does tofu and a dildo have in common?",
+            "delivery": "They're both meat substitutes.",
+            "flags": {
+                "nsfw": true,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 137,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "The past, the present and the future walk into a bar.",
+            "delivery": "It was tense.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 198,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "I was reading a great book about an immortal dog the other day. It was impossible to put down.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 236,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "To prove he was right, the flat-earther walked to the end of the Earth.",
+            "delivery": "He eventually came around.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "safe": true,
+            "id": 280,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "twopart",
+            "setup": "People are like jellybeans and licorice:",
+            "delivery": "No one likes the blacks.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": true,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 100,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "I stayed up all night wondering where the sun went.",
+            "delivery": "Then it dawned on me.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "safe": true,
+            "id": 287,
+            "lang": "en"
+        }
+    ]
+}
